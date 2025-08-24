@@ -1,1 +1,3 @@
-# arch_auto_install
+# save archinstall
+chmod +x archinstall.sh
+./archinstall.sh
